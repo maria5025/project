@@ -1,0 +1,25 @@
+.head{
+	display: inline-block;
+	padding: 20px; 
+	font-family: 'Roboto Slab', serif;
+}
+span{
+	font-weight: bold;
+}
+.Live{
+	font-size: 40px;
+}
+.Q{
+	font-size: 25px;
+}
+.event1{
+	display: inline-block;
+	padding: 30px;
+}
+.event2{
+	display: inline-block;
+}
+.log{
+	display:inline-block;
+	padding: 10px;
+}
